@@ -1,3 +1,9 @@
+address {
+  display: block;
+  font-style: italic;
+}
+
+
 .button{
 border-style: dashed;
 }
